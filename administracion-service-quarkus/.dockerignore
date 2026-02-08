@@ -1,0 +1,22 @@
+# Build outputs
+/target/
+
+# IDEs
+/.idea/
+/.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VCS
+.git
+.gitignore
+
+# Maven wrapper cache (keep wrapper scripts)
+.mvn/wrapper/*.zip
+.mvn/wrapper/*.tar.gz
+
+# Logs
+*.log
